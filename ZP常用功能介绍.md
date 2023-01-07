@@ -2,47 +2,47 @@
 
 ##  zp**常用的功能模块使用介绍：**
 
-![image-20230106163457265](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106163457265.png)
+![image-20230106163457265](image-20230106163457265.png)
 ## 个人配置模块
 
 ```shell
 # 个人配置模块：这个zp软件自带的一个信息模块，里面已经随机生成了姓与名，地址，城市，邮箱，密码等信息
 ```
 
-![image-20230106164148309](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164148309.png)
+![image-20230106164148309](image-20230106164148309.png)
 
-![image-20230106164154324](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164154324.png)
+![image-20230106164154324](image-20230106164154324.png)
 ## 文件模块
 
 ```shell
 # 文件模块：是用来连接你本地创建的txt文件，并且来实现把你所获取的数据内容写入到你创建的txt文件，不仅仅只有写入的功能，也可以删除或者复制你txt文件的里的内容。
 ```
 
-![image-20230106164230028](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164230028.png)
+![image-20230106164230028](image-20230106164230028.png)
 
-![image-20230106164233902](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164233902.png)
+![image-20230106164233902](image-20230106164233902.png)
 ## 短信服务模块
 
 ```shell
 # 短信服务模块：在一个网站上注册一个新用户时，可能需要用到电话号码来接码才能完成注册，所以就需要用到这模块，其使用方法是通过该模块提供的接码平台获取该平台的api来进行接码
 ```
 
-![image-20230106164423492](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164423492.png)
+![image-20230106164423492](image-20230106164423492.png)
 
-![image-20230106164413165](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164413165.png)![image-20230106164418697](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164418697.png)
+![image-20230106164413165](image-20230106164413165.png)![image-20230106164418697](image-20230106164418697.png)
 ## 数据库模块
 
 ```shell
 # 数据库模块：通过该模块去获取本地数据库里的数据或者去获取他人的数据库里的数据
 ```
 
-![image-20230106164536131](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164536131.png)
+![image-20230106164536131](image-20230106164536131.png)
 
-![image-20230106164539782](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164539782.png)
+![image-20230106164539782](image-20230106164539782.png)
 
-![image-20230106164543559](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164543559.png)
+![image-20230106164543559](image-20230106164543559.png)
 
-![image-20230106164552579](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164552579.png)
+![image-20230106164552579](image-20230106164552579.png)
 ## 随机模块
 
 ```shell
@@ -52,13 +52,13 @@
 
 <img src="C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164756643.png" alt="image-20230106164756643" style="zoom:80%;" />
 
-![image-20230106164809736](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164809736.png)
+![image-20230106164809736](image-20230106164809736.png)
 
-![image-20230106164814055](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164814055.png)
+![image-20230106164814055](image-20230106164814055.png)
 
-![image-20230106165346276](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106165346276.png)
+![image-20230106165346276](image-20230106165346276.png)
 
-![image-20230106165357397](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106165357397.png)
+![image-20230106165357397](image-20230106165357397.png)
 ## 文本处理模块
 
 ```shell
@@ -66,11 +66,11 @@
 # 添加变量【只能用英文】
 ```
 
-![image-20230106165709869](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106165709869.png)
+![image-20230106165709869](image-20230106165709869.png)
 
 
 
-![image-20230106165848466](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106165848466.png)![image-20230106165857255](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106165857255.png)```
+![image-20230106165848466](image-20230106165848466.png)![image-20230106165857255](image-20230106165857255.png)```
 
 ```shell
 # Regex：正则切割，需要去学正则的使用方法
@@ -78,20 +78,20 @@
 
 
 
-![image-20230106165940542](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106165940542.png)![image-20230106170252263](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106170252263.png)
+![image-20230106165940542](image-20230106165940542.png)![image-20230106170252263](image-20230106170252263.png)
 
 ```shell
 # 子字符串：理解为在一串数字或者文本里去获取我们想要的数据，例：1000123571111这串数字，我们想要的是10001，就可以用这个功能，注意：10001对应的位置是01234的位置.
 ```
 
-![image-20230106170415191](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106170415191.png)![image-20230106170426805](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106170426805.png)
+![image-20230106170415191](image-20230106170415191.png)![image-20230106170426805](image-20230106170426805.png)
 ## 添加表单功能
 
 ```shell
 #添加表单功能：就是连接到你本地创建好的xlsx表格并能获取到表格里的数据
 ```
 
-![image-20230106171055083](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106171055083.png)![image-20230106171418392](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106171418392.png)![image-20230106171703375](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106171703375.png)![image-20230106172431085](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106172431085.png)
+![image-20230106171055083](image-20230106171055083.png)![image-20230106171418392](image-20230106171418392.png)![image-20230106171703375](image-20230106171703375.png)![image-20230106172431085](image-20230106172431085.png)
 
 ```shell
 # 连接到表格后会显示内容
@@ -99,7 +99,7 @@
 
 
 
-![image-20230106172532699](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106172532699.png)
+![image-20230106172532699](image-20230106172532699.png)
 ## 设置模块
 
 ```shell
@@ -109,20 +109,20 @@ Socks5格式的：SOCKS5://用户名:密码@IP:端口
 http格式：http://用户名:密码@IP:端口
 ```
 
-![image-20230106173124219](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173124219.png)
+![image-20230106173124219](image-20230106173124219.png)
 
-![image-20230106172748507](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106172748507.png)![image-20230106173100046](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173100046.png)
+![image-20230106172748507](image-20230106172748507.png)![image-20230106173100046](image-20230106173100046.png)
 ## 控制标签模块
 
 ```shell
 # 控制标签模块：可以理解为切换，关闭，新建页面的功能，相当于你打开了很多网页，你要在网页中进行切换，关闭，新建。
 ```
 
-![image-20230106173624075](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173624075.png)
+![image-20230106173624075](image-20230106173624075.png)
 
 
 
-![image-20230106173347564](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173347564.png)![image-20230106173704432](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173704432.png)
+![image-20230106173347564](image-20230106173347564.png)![image-20230106173704432](image-20230106173704432.png)
 ## 保存cookiesden模块
 
 ```shell
@@ -132,9 +132,9 @@ http格式：http://用户名:密码@IP:端口
 # 第三个分割cookie
 ```
 
-![image-20230106173818242](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173818242.png)
+![image-20230106173818242](image-20230106173818242.png)
 
-![image-20230106173850093](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106173850093.png)
+![image-20230106173850093](image-20230106173850093.png)
 ## 插件模块
 
 ```shell
@@ -143,15 +143,15 @@ http格式：http://用户名:密码@IP:端口
 # 每次添加插件，都需要去激活才能使用 【激活需要选择名字和输入插件名字】
 ```
 
-![image-20230106174201364](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106174201364.png)
+![image-20230106174201364](image-20230106174201364.png)
 
 ###  添加插件
 
-![image-20230106174219582](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106174219582.png)![image-20230106174424543](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106174424543.png)
+![image-20230106174219582](image-20230106174219582.png)![image-20230106174424543](image-20230106174424543.png)
 
 ###  激活插件
 
-![image-20230106174514525](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106174514525.png)
+![image-20230106174514525](image-20230106174514525.png)
 
 ##  载入页面模块
 
@@ -159,7 +159,7 @@ http格式：http://用户名:密码@IP:端口
 # 载入页面模块：放入你需要访问的网址连接比如：www.baidu.com
 ```
 
-![image-20230106175019905](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106175019905.png)
+![image-20230106175019905](image-20230106175019905.png)
 
 ## 赋值模块
 
@@ -169,9 +169,9 @@ http格式：http://用户名:密码@IP:端口
 
 
 
-![image-20230106175655383](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106175655383.png)
+![image-20230106175655383](image-20230106175655383.png)
 
-![image-20230106182455190](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106182455190.png)![image-20230106183612027](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106183612027.png)
+![image-20230106182455190](image-20230106182455190.png)![image-20230106183612027](image-20230106183612027.png)
 
 ```shell
 # Set：理解为输入内容的选项
@@ -179,15 +179,15 @@ http格式：http://用户名:密码@IP:端口
 # Ries：理解为模拟你鼠标的点击【这里常用的有点击和触摸模式】
 ```
 
-![image-20230106184000997](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106184000997.png)
+![image-20230106184000997](image-20230106184000997.png)
 
 ###   Set
 
-![image-20230106184147472](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106184147472.png)
+![image-20230106184147472](image-20230106184147472.png)
 
 ### Ries的点击模式
 
-![image-20230106184346791](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106184346791.png)
+![image-20230106184346791](image-20230106184346791.png)
 
 ### Ries的触摸模式
 
@@ -197,15 +197,15 @@ http格式：http://用户名:密码@IP:端口
 
 
 
-![image-20230106223926668](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106223926668.png)
+![image-20230106223926668](image-20230106223926668.png)
 
-![image-20230106224445593](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106224445593.png)
+![image-20230106224445593](image-20230106224445593.png)
 
 
 
 ### Get
 
-![image-20230106184417310](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106184417310.png)
+![image-20230106184417310](image-20230106184417310.png)
 
 ##  验证码模块
 
@@ -213,25 +213,25 @@ http格式：http://用户名:密码@IP:端口
 # 有3个常用的验证码，只不过对应不同验证码时得选相对的验证码模块【每个都需要到相对应的平台充值，填入代码才能使用】
 ```
 
-![image-20230106193734873](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106193734873.png)
+![image-20230106193734873](image-20230106193734873.png)
 
 ### 第一种是需要输入到指定位置的验证码【需要去获取指定位置的属性和值，然后放入他的至变量】
 
-![image-20230106193404862](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106193404862.png)
+![image-20230106193404862](image-20230106193404862.png)
 
-![image-20230106191040608](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106191040608.png)![image-20230106192555579](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106192555579.png)
+![image-20230106191040608](image-20230106191040608.png)![image-20230106192555579](image-20230106192555579.png)
 
-![image-20230106192759953](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106192759953.png)
+![image-20230106192759953](image-20230106192759953.png)
 
 ### 第二种只需要选择充值好平台就可以自动识别
 
-![image-20230106193311284](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106193311284.png)![image-20230106193326475](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106193326475.png)
+![image-20230106193311284](image-20230106193311284.png)![image-20230106193326475](image-20230106193326475.png)
 
-![image-20230106193535927](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106193535927.png)
+![image-20230106193535927](image-20230106193535927.png)
 
 ###  第三种和第二种一样只需要选择充值好平台就可以自动识别
 
-![image-20230106194031553](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106194031553.png)![image-20230106194040129](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106194040129.png)
+![image-20230106194031553](image-20230106194031553.png)![image-20230106194040129](image-20230106194040129.png)
 
 ##  邮箱接收模块
 
@@ -242,17 +242,17 @@ http格式：http://用户名:密码@IP:端口
 # 需要输入数字或者英文的验证码，是需要到指定的位置获取到我们需要的赋值，然后用{赋值}这个功能添加我们自己创建好的至变量，才能输入到指定的位置内
 ```
 
-![image-20230106195946177](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106195946177.png)
+![image-20230106195946177](image-20230106195946177.png)
 
-![image-20230106201148021](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106201148021.png)
+![image-20230106201148021](image-20230106201148021.png)
 
-![image-20230106201724420](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106201724420.png)```
+![image-20230106201724420](image-20230106201724420.png)```
 
 ###  获取链接
 
-![image-20230106202235460](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106202235460.png)
+![image-20230106202235460](image-20230106202235460.png)
 
-![image-20230106203043364](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106203043364.png)
+![image-20230106203043364](image-20230106203043364.png)
 
 ###  获取数字或者字母
 
@@ -260,10 +260,10 @@ http格式：http://用户名:密码@IP:端口
 # 注意；在上面的办法没办法找到我们想要链接情况下，以下的办法也可以用来获取链接
 ```
 
-![image-20230106204309671](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106204309671.png)
+![image-20230106204309671](image-20230106204309671.png)
 
-![image-20230106214152465](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106214152465.png)
+![image-20230106214152465](image-20230106214152465.png)
 
-![image-20230106222120827](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106222120827.png)
+![image-20230106222120827](image-20230106222120827.png)
 
-![image-20230106225534363](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106225534363.png)
+![image-20230106225534363](image-20230106225534363.png)
