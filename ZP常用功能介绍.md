@@ -50,7 +50,7 @@
 # 随机用户名或者密码都可以使用
 ```
 
-<img src="C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20230106164756643.png" alt="image-20230106164756643" style="zoom:80%;" />
+![image-20230106164756643](image-20230106164756643.png)
 
 ![image-20230106164809736](image-20230106164809736.png)
 
